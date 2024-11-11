@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Estudos do Curso.dev - utilização da ferramenta Git e GitHub</h1>
+    return <h1>Estudos do Curso.dev  - Git, GitHub, Vercel Deploy</h1>
 }
 
 export default Home;
